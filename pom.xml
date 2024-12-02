@@ -14,8 +14,8 @@
     <name>speech</name>
     <description>speech</description>
     <properties>
-         <sonar.organization>shirley-brillith-ascencio-luyo</sonar.organization>
-         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+           <sonar.organization>shirley-brillith-ascencio-luyo</sonar.organization>
+           <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <java.version>17</java.version>
     </properties>
     <dependencies>
