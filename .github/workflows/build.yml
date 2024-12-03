@@ -2,7 +2,7 @@ name: SonarQube Cloud
 on:
   push:
     branches:
-      - develop #Rama de evaluación.
+      - develop #Rama de trabajo.
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
